@@ -1,0 +1,1 @@
+(\.cubecraft\.net$|^cubecraft.net)
