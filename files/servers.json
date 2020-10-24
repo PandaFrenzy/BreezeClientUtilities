@@ -7,5 +7,5 @@
   {"server_name": "the Lunar Network", "pattern": "(^|\\.)lunar.gg"},
   {"server_name": "Hypixel", "pattern": "(\\.|^)hypixel.net$"},
   {"server_name": "Cubecraft", "pattern": "(\\.|^)cubecraft.net$"},
-  {"server_name": "Invadedlands", "pattern": "^invadedlands.net$"}
+  {"server_name": "Invaded Lands", "pattern": "^invadedlands.net$"}
 ]
