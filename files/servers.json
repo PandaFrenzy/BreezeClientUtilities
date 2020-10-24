@@ -1,0 +1,12 @@
+{
+  "servers": [
+    "Anti AC": "^antiac.net$",
+    "The Hive": "(\.|^)hivemc.com",
+    "PVP Land": "^pvp.land$",
+    "Mineplex": "(\.mineplex\.com$|^mineplex.com)",
+    "Minemen Club": "(^mine(men|man).club|\.(mine(men|man)).club)",
+    "the Lunar Network": "(^|\.)lunar.gg",
+    "Hypixel": "(\.hypixel\.net$|^hypixel.net)",
+    "Cubecraft": "(\.cubecraft\.net$|^cubecraft.net)"
+  ]
+}
