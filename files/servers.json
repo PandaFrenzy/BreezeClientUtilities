@@ -1,10 +1,10 @@
 [
   {"server_name": "Anti AC", "pattern": "^antiac.net$"},
-  {"server_name": "The Hive", "pattern": "(\.|^)hivemc.com"},
+  {"server_name": "The Hive", "pattern": "(\\.|^)hivemc.com"},
   {"server_name": "PVP Land", "pattern": "^pvp.land$"},
-  {"server_name": "Mineplex", "pattern": "(\.mineplex\.com$|^mineplex.com)"},
-  {"server_name": "Minemen Club", "pattern": "(^mine(men|man).club|\.(mine(men|man)).club)"},
-  {"server_name": "the Lunar Network", "pattern": "(^|\.)lunar.gg"},
-  {"server_name": "Hypixel", "pattern": "(\.hypixel\.net$|^hypixel.net)"},
-  {"server_name": "Cubecraft", "pattern": "(\.cubecraft\.net$|^cubecraft.net)"}
+  {"server_name": "Mineplex", "pattern": "(\\.mineplex\\.com$|^mineplex.com)"},
+  {"server_name": "Minemen Club", "pattern": "(^mine(men|man).club|\\.(mine(men|man)).club)"},
+  {"server_name": "the Lunar Network", "pattern": "(^|\\.)lunar.gg"},
+  {"server_name": "Hypixel", "pattern": "(\\.hypixel\\.net$|^hypixel.net)"},
+  {"server_name": "Cubecraft", "pattern": "(\\.cubecraft\\.net$|^cubecraft.net)"}
 ]
