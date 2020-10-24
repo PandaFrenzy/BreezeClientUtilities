@@ -1,0 +1,1 @@
+(^mine(men|man).club|\.(mine(men|man)).club)
