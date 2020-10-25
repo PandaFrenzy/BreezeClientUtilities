@@ -8,6 +8,7 @@
   {"server_name": "Hypixel", "pattern": "(\\.|^)hypixel.net$"},
   {"server_name": "Cubecraft", "pattern": "(\\.|^)cubecraft.net$"},
   {"server_name": "Invaded Lands", "pattern": "^invadedlands.net$"},
-  {"server_name": "2b2t", "pattern": "^2b2t.org$"},
-  {"server_name": "Minesuperior", "pattern": "^hub.mcs.gg$}
+  {"server_name": "2b2t", "pattern": "^2b2t.org$"}
+  {"server_name": "socks", "pattern": "^Socks.gg$"}
+]
 ]
